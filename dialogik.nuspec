@@ -13,8 +13,8 @@
     <licenseUrl>https://www.doublecount.ch/datenschutz/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://dialogikfile.ch/Help/Manual.Dialogik.Lohn.v10.20.pdf</docsUrl>
-    <summary>Dialogik</summary>
-    <description>Dialogik is a payroll accounting Software</description>
+    <summary>dialogik Lohn</summary>
+    <description>dialogik Lohn is a payroll accounting Software</description>
     <tags>dialogik payroll accounting</tags>
     <releaseNotes>https://www.dialogikfile.ch/Info/Lohn/UpdInfo.html#/</releaseNotes>
   </metadata>

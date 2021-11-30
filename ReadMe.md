@@ -1,8 +1,8 @@
-﻿# Chocolatey Package: Dialogik
+﻿# Chocolatey Package: dialogik Lohn
 
 ## Description
 
-Dialogik is a payroll accounting Software
+dialogik Lohn is a payroll accounting Software
 
 ## Installation
 
